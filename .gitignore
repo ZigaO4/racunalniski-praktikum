@@ -13,6 +13,7 @@
 *.pdf
 *.pyc
 *.synctex.gz
+*.zip
 
 # MacOS
 __MACOSX
